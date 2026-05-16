@@ -32,7 +32,7 @@ const Navbar = () => {
       <div className="font-bold text-3xl text-[var(--text-h)]">Allsz</div>
       <div className="flex gap-5">
         <a href="#home" className="text-[var(--text)] no-underline font-medium transition-colors duration-200 hover:text-[var(--accent)]">Home</a>
-        <a href="#about" className="text-[var(--text)] no-underline font-medium transition-colors duration-200 hover:text-[var(--accent)]">Sobre mim</a>
+        <a href="#about" className="text-[var(--text)] no-underline font-medium transition-colors duration-200 hover:text-[var(--accent)]">Sobre</a>
         <a href="#contact" className="text-[var(--text)] no-underline font-medium transition-colors duration-200 hover:text-[var(--accent)]">Contato</a>
       </div>
     </nav>

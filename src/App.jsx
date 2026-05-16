@@ -27,7 +27,7 @@ function App() {
   return (
     <>
       <Navbar />
-      <section id="center" className="pt-[120px] pb-20 px-5 max-w-[1700px] mx-auto flex flex-col items-center min-h-[150vh]">
+      <section id="center" className="pt-[120px] pb-20 px-5 w-full max-w-[1700px] mx-auto flex flex-col items-center min-h-[150vh]">
         {renderContent()}
       </section>
     </>
